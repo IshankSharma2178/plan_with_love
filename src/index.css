@@ -35,11 +35,10 @@ body{
 .card{
   width: 300px;
   padding: 1rem;
-  /* height:max-content; */
+  height:max-content;
   margin: 1rem;
   display: flex;
   flex-direction:column ;
-  min-height: 600px;
   border-radius: 10px;
   align-items: center;
   box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
